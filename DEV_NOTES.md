@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Improved error handling in edge cases
 - Drafted initial implementation plan for v2
+
+## 2026-03-23
+- Ran linter, applied auto-fixes
+- Reorganised test fixtures
+- Added basic usage examples to README
