@@ -18,3 +18,7 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Reorganised test fixtures
 - Added basic usage examples to README
+
+## 2026-03-23
+- Added healthcheck endpoint stub
+- Added CONTRIBUTING.md stub
